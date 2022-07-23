@@ -1,0 +1,229 @@
+[
+    {
+	    "title": "Elden Ring",
+	    "developer": "FromSoftware",
+	    "publisher": "Bandai Namco Entertainment",
+		"genres": ["arpg"],
+		
+		"release": {
+			"day": 25,
+			"month": 2,
+			"year": 2022
+		},
+		
+		"platforms": [
+			{
+				"name": "Xbox One",
+				"releaseDate": {
+					"day": 25,
+					"month": 2,
+					"year": 2022
+				}
+			},
+
+			{
+				"name": "Xbox Series X/S",
+				"releaseDate": {
+					"day": 25,
+					"month": 2,
+					"year": 2022
+				}
+			},
+
+			{
+				"name": "PlayStation 4",
+				"releaseDate": {
+					"day": 25,
+					"month": 2,
+					"year": 2022
+				}
+			},
+			
+			{
+				"name": "PlayStation 5",
+				"releaseDate": {
+					"day": 25,
+					"month": 2,
+					"year": 2022
+				}
+			},
+			
+			{
+				"name": "Pc",
+				"releaseDate": {
+					"day": 25,
+					"month": 2,
+					"year": 2022
+				}
+			}
+		],
+		
+		"engine": "unknown",
+
+		"modes": {
+			"single-player": true,
+			"multiplayer": true
+		},
+
+		"images": [
+			"db/images/EldenRing/1.jpg",
+			"db/images/EldenRing/2.jpg",
+			"db/images/EldenRing/3.jpg",
+			"db/images/EldenRing/4.jpg"
+		],
+		
+		"premise": "Elden Ring takes place in the Lands Between, an island populated by a number of gods. The Elden Ring was created by a god called the Greater Will, who hurled it down from the cosmos in an attempt to bring order to the world. The Ring was housed inside the Erdtree, a golden tree that acts as a symbol of the Greater Will. The Lands Between were ruled over by Queen Marika the Eternal, who acted as keeper of the Elden Ring and had numerous  children. Marika eventually shattered the Elden Ring into multiple pieces and disappeared, causing her demigod children to war over pieces of the Ring in an event called the Shattering. Each demigod possesses a shard of the Ring, collectively called the Great Runes, which corrupt them with power. The player character is a Tarnished, one of a group of exiles from the Lands Between who were summoned back after the Shattering. As one of the Tarnished, the player must traverse the realm to become the Elden Lord"
+    },
+
+    {
+	    "title": "Grand Theft Auto V",
+	    "developer": "Rockstar North",
+	    "publisher": "Rockstar Games",
+		"genres": ["action", "adventure", "open-world"],
+		
+		"release": {
+			"day": 17,
+			"month": 9,
+			"year": 2013
+		},
+		
+		"platforms": [
+			{
+				"name": "Xbox 360",
+				"releaseDate": {
+					"day": 17,
+					"month": 9,
+					"year": 2013
+				}
+			},
+
+			{
+				"name": "Xbox One",
+				"releaseDate": {
+					"day": 18,
+					"month": 11,
+					"year": 2014
+				}
+			},
+
+			{
+				"name": "Xbox Series X/S",
+				"releaseDate": {
+					"day": 15,
+					"month": 3,
+					"year": 2022
+				}
+			},
+
+			{
+				"name": "Playstation 3",
+				"releaseDate": {
+					"day": 17,
+					"month": 9,
+					"year": 2013
+				}
+			},				
+
+			{
+				"name": "PlayStation 4",
+				"releaseDate": {
+					"day": 18,
+					"month": 11,
+					"year": 2014
+				}
+			},
+			
+			{
+				"name": "PlayStation 5",
+				"releaseDate": {
+					"day": 15,
+					"month": 3,
+					"year": 2022
+				}
+			},
+			
+			{
+				"name": "Pc",
+				"releaseDate": {
+					"day": 14,
+					"month": 4,
+					"year": 2015
+				}
+			}
+		],
+		
+		"engine": "RAGE",
+
+		"modes": {
+			"single-player": true,
+			"multiplayer": true
+		},
+
+		"images": [
+			"db/images/GrandTheftAutoV/1.jpg",
+			"db/images/GrandTheftAutoV/2.jpg",
+			"db/images/GrandTheftAutoV/3.jpg",
+			"db/images/GrandTheftAutoV/4.jpg"
+		],
+		
+		"premise": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody, least of all each other."
+    },
+
+    {
+	    "title": "Assasin's Creed",
+	    "developer": "Ubisoft Montreal",
+	    "publisher": "Ubisoft",
+		"genres": ["action", "adventure", "stealth"],
+		
+		"release": {
+			"day": 13,
+			"month": 11,
+			"year": 2007
+		},
+		
+		"platforms": [
+			{
+				"name": "Xbox 360",
+				"releaseDate": {
+					"day": 13,
+					"month": 11,
+					"year": 2007
+				}
+			},
+
+			{
+				"name": "Playstation 3",
+				"releaseDate": {
+					"day": 13,
+					"month": 11,
+					"year": 2007
+				}
+			},	
+			
+			{
+				"name": "Pc",
+				"releaseDate": {
+					"day": 8,
+					"month": 4,
+					"year": 2008
+				}
+			}
+		],
+		
+		"engine": "Ubisoft Anvil",
+
+		"modes": {
+			"single-player": true,
+			"multiplayer": false
+		},
+
+		"images": [
+			"db/images/AssassinsCreed/1.jpg",
+			"db/images/AssassinsCreed/2.jpg",
+			"db/images/AssassinsCreed/3.jpg",
+			"db/images/AssassinsCreed/4.hpg"
+		],
+		
+		"premise": "Desmond Miles, a bartender, is kidnapped by the company Abstergo Industries for use as a test subject in the 'Animus', a device that can simulate genetic memory. Abstergo intends to put Desmond in the device to recall the memories of his ancestor, Altaïr Ibn-La'Ahad, a member of the Assassin Brotherhood in the year 1191, who lived during the Third Crusade in the Holy Land. Initially, Desmond has trouble adjusting to the device, but eventually relives Altaïr's exploits over the next several days. The game then primarily changes to Altaïr's point-of-view, with occasional transitions to Desmond, due to problems with the Animus or onset of the Bleeding."
+    }
+]
