@@ -332,4 +332,4 @@ También debe tener inputs que sirvan para filtrar y ordenar la tabla.
  - Dos inputs de tipos date, en uno se indica la fecha min y en el otro se indica la fecha max
  - un select con tres options (default, title y date) que sirva para indicar si ordenarlos según el título o según la fecha de release. Si está en default, los trae como estan en la base de datos.
 
-También debe haber un botón que diga "buscar" en el que haga la petición al endpoint correspondiente según los inputs.
+También debe haber un botón que diga "buscar" en el que haga la petición al endpoint correspondiente según los inputs.a
