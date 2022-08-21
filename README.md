@@ -318,62 +318,11 @@ Rutas:
 ## 4- Armar un front-end (opcional)
 La idea es tener una página index.html, donde muestre una tabla con información de todos los juegos. (mostrar las imágenes de la carpeta images)
 Ejemplo:
-
-<table>
-        <tr>
-            <th>id</th>
-            <th></th>
-            <th>title</th><th></th>
-            <th>developer</th><th></th>
-            <th>publisher</th><th></th>
-            <th>genres</th><th></th>
-            <th>release</th><th></th>
-            <th>platforms</th><th></th>
-            <th>engine</th><th></th>
-            <th>modes</th><th></th>
-            <th>images</th><th></th>
-            <th>premise</th>
-        </tr>
-        <tr>
-            <td>1</td><td></td>
-            <td>Elden Ring</td><td></td>
-            <td>FromSoftware</td><td></td>
-            <td>Bandai Namco Entertainment</td><td></td>
-            <td>arpg</td><td></td>
-            <td>25/2/2022</td><td></td>
-            <td>Xbox One, Xbox Series X/S, Playstation 4, Playstation 5, Pc</td><td></td>
-            <td>unknown</td><td></td>
-            <td>single-player and multiplayer</td><td></td>
-            <td>imagenes</td><td></td>
-            <td>Elden Ring takes place in blablabla</td>
-        </tr>
-        <tr>
-            <td>2</td><td></td>
-            <td>Grand Theft Auto V</td><td></td>
-            <td>Rockstar North</td><td></td>
-            <td>Rockstar Games</td><td></td>
-            <td>action, adventure, open-world</td><td></td>
-            <td>17/9/2013</td><td></td>
-            <td>Xbox 360, Xbox One, Xbox Series X/S, Playstation 3 Playstation 4, Playstation 5, Pc</td><td></td>
-            <td>RAGE</td><td></td>
-            <td>single-player and multiplayer</td><td></td>
-            <td>imagenes</td><td></td>
-            <td>When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some bla bla bla</td>
-        </tr>
-        <tr>
-            <td>3</td><td></td>
-            <td>Assassin's Creed</td><td></td>
-            <td>Ubisoft Montreal</td><td></td>
-            <td>Ubisoft</td><td></td>
-            <td>action, adventure, stealth</td><td></td>
-            <td>13/11/2007</td><td></td>
-            <td>Xbox 360, Playstation 3, Pc</td><td></td>
-            <td>Ubisoft Anvil</td><td></td>
-            <td>single-player</td><td></td>
-            <td>imagenes</td><td></td>
-            <td>Desmond Miles, a bartender, is kidnapped by bla bla bla</td>
-        </tr>
-</table>
+|id|title|developer|publisher|genres|release|platforms|engine|modes|images|premise
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|1|Elden Ring|FromSoftware|Bandai Namco Entertainment|arpg|25/2/2022|Xbox One, Xbox Series X/S, Playstation 4, Playstation 5, Pc|unknown|single-player and multiplayer|imagenes|Elden Ring takes place in blablabla
+|2|Grand Theft Auto V|Rockstar North|Rockstar Games|action, adventure, open-world|17/9/2013|Xbox 360, Xbox One, Xbox Series X/S, Playstation 3 Playstation 4, Playstation 5, Pc|RAGE|single-player and multiplayer|imagenes|When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some bla bla bla
+|3|Assassin's Creed|Ubisoft Montreal|Ubisoft|action, adventure, stealth|13/11/2007|Xbox 360, Playstation 3, Pc|Ubisoft Anvil|single-player|imagenes|Desmond Miles, a bartender, is kidnapped by bla bla bla
 
 También debe tener inputs que sirvan para filtrar y ordenar la tabla.
 
