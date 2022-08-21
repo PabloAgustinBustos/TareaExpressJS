@@ -319,7 +319,7 @@ Rutas:
 La idea es tener una página index.html, donde muestre una tabla con información de todos los juegos. (mostrar las imágenes de la carpeta images)
 Ejemplo:
 |id|title|developer|publisher|genres|release|platforms|engine|modes|images|premise
-|--|--|--|--|--|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|--|--|--|--|
 |1|Elden Ring|FromSoftware|Bandai Namco Entertainment|arpg|25/2/2022|Xbox One, Xbox Series X/S, Playstation 4, Playstation 5, Pc|unknown|single-player and multiplayer|imagenes|Elden Ring takes place in blablabla
 |2|Grand Theft Auto V|Rockstar North|Rockstar Games|action, adventure, open-world|17/9/2013|Xbox 360, Xbox One, Xbox Series X/S, Playstation 3 Playstation 4, Playstation 5, Pc|RAGE|single-player and multiplayer|imagenes|When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some bla bla bla
 |3|Assassin's Creed|Ubisoft Montreal|Ubisoft|action, adventure, stealth|13/11/2007|Xbox 360, Playstation 3, Pc|Ubisoft Anvil|single-player|imagenes|Desmond Miles, a bartender, is kidnapped by bla bla bla
